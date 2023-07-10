@@ -25,8 +25,10 @@ raw_html = (
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+    <title>AI Accounts on Threads</title>
 </head>
 <body>
+<h1>AI Accounts on Threads</h1>
 """
     + html_table_data
     + """
