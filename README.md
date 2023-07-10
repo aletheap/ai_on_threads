@@ -1,6 +1,6 @@
 # AI/ML accounts on Threads
 
-[Here](http://raw.githack.com/aletheap/ai_on_threads/main/ai_accounts_on_threads.html) is a searchable, sortable list of names, affiliations, and Twitter -> Threads handle mappings.
+[The List](http://raw.githack.com/aletheap/ai_on_threads/main/ai_accounts_on_threads.html) in searchable, sortable form. (Includes names, affiliations, and Twitter->Threads handle map.)
 
 If you follow some of these accounts, it should help get your recommendations bootstrapped so Threads can then help you find more AI/ML people.
 
