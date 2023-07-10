@@ -7,8 +7,8 @@ Aishwarya Srinivasan,Google,Data Scientist,Aishwarya_Sri0,the.datascience.gal
 Alena Harley,Tempus Labs,Director of Machine Learning,alenushka,alena.harley
 Alethea Power, formerly OpenAI," ""Reasoning and Interpretability research""",exteriorpower,exteriorpower
 Andrej Karpathy,OpenAI,Research,karpathy,karpathy
-Andrew,Cartwheel,Chief generative officer,,carrandrew
 Andrew Ng,Coursera/Stanford,cofounder/adjunct professor,AndrewYNg,andrew_y_ng
+Andrew,Cartwheel,Chief generative officer,,carrandrew
 Angela Zhou,USC,Asst Prof,SHyperplane,separated_hyperplane
 Anna Makanju,OpenAI,head fo Public Policy,annaadeola,rugerican
 Anthony Shoumikhin,Meta,Pytorch SWE,shoumikhin,shoumikhin
@@ -17,8 +17,8 @@ Aran Komatsuzaki,EleutherAI,Lead Researcher,arankomatsuzaki,arankomatsuzaki
 Ben Murdoch,Google,AI research,,ben.murdoch
 Berivan Isik,Stanford,PhD,BerivanISIK,berivan.isik_
 Bert Maher,Meta,"Principal Software Engineer, Pytorch",,bertmaher
-Bhavul Gauri,Meta,Senior ML Eng,BhavulGauri,bhavulgauri
 Bhavin Jawade,Univ of Buffalo,PhD Student,BhavinJawade,bhavin.jawade
+Bhavul Gauri,Meta,Senior ML Eng,BhavulGauri,bhavulgauri
 Bojan Tunguz,NVIDIA,ML/Data Scientist,tunguz,tunguz
 Carly Taylor,Activision,ML for Call of Duty,carlymachinelearning,carlymachinelearning
 Caroline Lo,Meta,ML/DS,,watsuen
@@ -26,6 +26,7 @@ Chris Albon,Wikimedia,Director of ML,chrisalbon,chrisalbon
 Chris Olah,Anthropic,"Research, Interpretability",ch402,olahchristopher
 Christopher Manning,Stanford AI Lab,Director,chrmanning,chrrmanning
 Clem Delangue,Hugging Face,CEO/co-founder,ClementDelangue,clementdelangue
+Daniel Breen,ML Insights: AI Unpacking AI Papers,Podcaster,,dnlbreen
 Daniel Eth,self employed,,daniel_271828,daniel_271828
 Daniel McKee,University of Illinois, PhD Student,danielbmckee,danielbmckee
 Desi R. Ivanova,Oxford,DPhil in Statistics,desirivanova,drivanova1
@@ -40,6 +41,8 @@ Eugene Yan,Amazon,"Building ml, recsys, & llm systems",eugeneyan,eugeneyan
 Gautam Kamath,Univ of Waterloo,Asst Prof,thegautamkamath,thegautamkamath
 Giovanni Alcantara,Meta,AI,gvnalc,gvnalc
 Gowthami Somepalli,Univ of Maryland,grad student in ML,gowthami_s,gowthami_som
+Greg Brockman,OpenAI,co-founder,gdb,greg.brockman
+Guy Van den Broeck,UCLA,Asst Prof,guyvdb,guyvdb
 Harpreet Sahota,Deci Ai,DL Developer Relations Manager,DataScienceHarp,datascienceharp
 Harrison Kinsley,Neural networks from Scratch book,author,sentdex,sentdex
 Hilary Mason,Fast Forward Labs,Founder & CEO,?,hilaryamason
@@ -47,12 +50,13 @@ Horace He,Meta,Pytorch,cHHillee,chhilleee
 Hugging Face,Hugging Face,,huggingface,huggingface_ai
 Irene Teinemaa,DeepMind,Research Engineer,IreneTeinemaa,ireneteinemaa
 James Bradbury,Google,"JAX, TPUs, and LLMs",jekbradbury,jekbradbury
-Jeremy Howard,fast.ai,Co-founder,jeremyphoward,jeremyphoward
 Jean de Nyandwi,Carnegie Mellon,AI/DL,Jeande_d,nyandwi.de
+Jeremy Howard,fast.ai,Co-founder,jeremyphoward,jeremyphoward
 Jessy Li,University of Texas,"Assistant Professor, computational linguistics and NLProc",jessyjli,jessyjli
 Jim Fan,NVIDIA,Senior AI Scientist,DrJimFan,dr.jimfan
 Jonathan Smith,Meta,ML Research,jonathanajsmith,jonathanajsmith
 Josh Constine,SignalFire,Investor,JoshConstine,joshsc
+Julia Balla,Oxford,,,juliaballai_
 Julien Chaumond,Hugging Face,CTO/co-founder,julien_c,chaumond
 Jupyter Meowbooks,,Memes,untitled01ipynb,untitled01ipynb
 Karson Elmgren,Center for Security and Emerging Technology at Georgetown, AI policy/AI Assessment,kelmgren,karsonelmgren
@@ -62,8 +66,8 @@ Margaret Mitchell,formerly Google,ML Scientist and AI Researcher,mmmitchell_ai,m
 Maria Antoniak,Allen Institute for AI,Postdoc,maria_antoniak,maria.antoniak
 Matt Rurck,FirstMark,VC,mattturck,mattturck
 Matthew Lynley,Supervised.News,Writer,mattlynley,mattlynley
-Maya,Carnegie Mellon,MS Student,,mayaxgreco
 Max Woolf,Buzzfeed,Data Scientist,minimaxir,minimaxir
+Maya,Carnegie Mellon,MS Student,,mayaxgreco
 Megan Risdal,"Kaggle, Google",Product work,MeganRisdal,meganrisdal
 Michael Voznesensky,Meta,Pytorch Eng,,vozfb
 Miguel Angel Bautista,Apple,ML Research,itsbautistam,itsbautistam
