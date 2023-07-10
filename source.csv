@@ -1,11 +1,11 @@
 Name,Affiliation,Role,Twitter,Threads
-AF,,papers,,aipaperaf
+AI Paper af,,papers,,aipaperaf
 AK,Hugging Face,,_akhaliq,_akhaliq
 Abi Aryan,<stealth>,"MLE, author",GoAbiAryan,goabiaryan
 Adi Polak,Prev Microsoft,SWE,AdiPolak,polak.code
 Aishwarya Srinivasan,Google,Data Scientist,Aishwarya_Sri0,the.datascience.gal
 Alena Harley,Tempus Labs,Director of Machine Learning,alenushka,alena.harley
-Alethea Power, formerly OpenAI," ""Reasoning and Interpretability research""",exteriorpower,exteriorpower
+Alethea Power, formerly OpenAI,Reasoning and Interpretability research,exteriorpower,exteriorpower
 Andrei Savu,Moonsense,,andreisavu,andrei_savu
 Andrej Karpathy,OpenAI,Research,karpathy,karpathy
 Andrew Ng,Coursera/Stanford,cofounder/adjunct professor,AndrewYNg,andrew_y_ng
@@ -46,6 +46,7 @@ Elvis Saravia,DAIR,Machine Learning & NLP,omarsar0,omarsar0
 Ethan Mollick,Wharton,Professor,emollick,ethan_mollick
 Eugene Vinitsky,NYU,Asst Prof,eugenevinitsky,vinitsky.eugene
 Eugene Yan,Amazon,"Building ml, recsys, & llm systems",eugeneyan,eugeneyan
+Franz Louis Cesista,Expedock,ML & Data SWE,leloykun,leloykun
 Gautam Kamath,Univ of Waterloo,Asst Prof,thegautamkamath,thegautamkamath
 Giovanni Alcantara,Meta,AI,gvnalc,gvnalc
 Gowthami Somepalli,Univ of Maryland,grad student in ML,gowthami_s,gowthami_som
@@ -94,7 +95,7 @@ Noam Brown,OpenAI,AI researcher,polynoamial,polynoamial
 Olesia,SoftServe,AI lead,olylesia,_olysavra_
 OpenAI Dall-E,OpenAI,Dall-E,,openaidalle
 Paige Bailey,DeepMind,Product Lead for Generative Models,DynamicWebPaige,dynamicwebpaige
-Parmida Beigi,Amazon AI,Senior Tech Lead Scientist on Gen AI/ML, NLP and speech recognition,ParmidaBeigi,bigdataqueen
+Parmida Beigi,Amazon AI,"Senior Tech Lead Scientist on Gen AI/ML, NLP and speech recognition",ParmidaBeigi,bigdataqueen
 Phillip Rust,Meta,nlp/ml phd student,rust_phillip,phillip.rust
 Pranav Shyam,DeepMind,Researcher,recurseparadox,prnvshym
 Prof. Anima Anandkumar,Caltech/Nvidia,Bren Professor @caltech / Sr Director of AI research @nvidia,AnimaAnandkumar,animaanandkumar
@@ -122,4 +123,3 @@ Xavier Amatriain,LinkedIn,VP of AI Product,XAmatriain,xamatriain
 Yana Welinder,Kraftful,CEO / Cofounder,yanatweets,yanawelinder
 Yann LeCun,Meta/NYU,Chief AI Scientist/Professor,ylecun,yannlecun
 Yoshitomo Matsubara,Amazon,Alexa AI Applied Scientist,yoshitomo_cs,yoshitomo_cs
-Franz Louis Cesista,Expedock,ML & Data SWE,leloykun,leloykun
