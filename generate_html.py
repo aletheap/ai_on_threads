@@ -23,11 +23,16 @@ def make_threads_link(val):
     # target _blank to open new window
     return '<a target="_blank" href="https://www.threads.net/@{}">{}</a>'.format(val[1], val[0])
 
+def make_twitter_link(val):
+    # target _blank to open new window
+    return '<a target="_blank" href="https://twitter.com/{}">{}</a>'.format(val[1], val[0])
+
 
 df = pd.read_csv("source.csv")
 df = df.fillna("")  # replace all NaN values with ""
 df["Name"] = df[["Name", "Threads"]].apply(make_threads_link, axis=1)
 df["Threads"] = df[["Threads", "Threads"]].apply(make_threads_link, axis=1)
+df["Twitter"] = df[["Twitter", "Twitter"]].apply(make_twitter_link, axis=1)
 df = df[["Name", "Threads", "Twitter", "Affiliation", "Role"]]
 html_table_data = df.to_html(index=False, classes="display", table_id="table_id", escape=False)
 
