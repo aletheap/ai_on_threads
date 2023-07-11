@@ -1,10 +1,24 @@
 #!/usr/bin/env python
 
 import pandas as pd
+import csv
 
 SOURCE = "source.csv"
 
+# clean up the source file
+with open(SOURCE, "r") as f:
+    rows = [[item.strip() for item in row] for row in csv.reader(f) if row]
+# check row lengths
+for i, row in enumerate(rows):
+    assert len(row) == 5, "Row {} has {} columns: {}".format(i, len(row), repr(row))
+rows = [rows[0]] + sorted(rows[1:], key=lambda x: x[0].lower())
+with open(SOURCE, "w") as f:
+    writer = csv.writer(f)
+    for row in rows:
+        writer.writerow(row)
 
+
+# generate the html file
 def make_threads_link(val):
     # target _blank to open new window
     return '<a target="_blank" href="https://www.threads.net/@{}">{}</a>'.format(val[1], val[0])

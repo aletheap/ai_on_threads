@@ -1,22 +1,24 @@
 Name,Affiliation,Role,Twitter,Threads
-AI Paper af,,papers,,aipaperaf
-AK,Hugging Face,,_akhaliq,_akhaliq
 Abi Aryan,<stealth>,"MLE, author",GoAbiAryan,goabiaryan
 Adi Polak,Prev Microsoft,SWE,AdiPolak,polak.code
+AI Paper af,,papers,,aipaperaf
 Aishwarya Anilkumar,Curiouser.ai,Research,gigglinggoblet,thegigglinggoblet
 Aishwarya Srinivasan,Google,Data Scientist,Aishwarya_Sri0,the.datascience.gal
+AK,Hugging Face,,_akhaliq,_akhaliq
 Alena Harley,Tempus Labs,Director of Machine Learning,alenushka,alena.harley
-Alethea Power, formerly OpenAI,Reasoning and Interpretability research,exteriorpower,exteriorpower
+Alethea Power,formerly OpenAI,Reasoning and Interpretability research,exteriorpower,exteriorpower
+Alex Hughes,Loopin,CTO,alexjackhughes,alexjackhughes
 Andrei Savu,Moonsense,,andreisavu,andrei_savu
 Andrej Karpathy,OpenAI,Research,karpathy,karpathy
-Andrew Ng,Coursera/Stanford,cofounder/adjunct professor,AndrewYNg,andrew_y_ng
 Andrew,Cartwheel,Chief generative officer,,carrandrew
+Andrew Ng,Coursera/Stanford,cofounder/adjunct professor,AndrewYNg,andrew_y_ng
 Angela Zhou,USC,Asst Prof,SHyperplane,separated_hyperplane
 Anna Makanju,OpenAI,head fo Public Policy,annaadeola,rugerican
 Anthony Shoumikhin,Meta,Pytorch SWE,shoumikhin,shoumikhin
 Anthropic,Anthropic,,AnthropicAI,Anthropic
 Aran Komatsuzaki,EleutherAI,Lead Researcher,arankomatsuzaki,arankomatsuzaki
 Arinbjörn Kolbeinsson,Evidation Health/Imperial College London,ML Scientist,arinbjornkol,arinbjornkol
+Azmine Toushik Wasi,"DILab,HYU/CIOL,SUST",AI Researcher,AzmineWasi,azminewasi
 Ben Murdoch,Google,AI research,,ben.murdoch
 Benedikt Kolbeinsson,Imperial College London,PhD,benediktkol,benediktkolbeinsson
 Berivan Isik,Stanford,PhD,BerivanISIK,berivan.isik_
@@ -33,7 +35,7 @@ Christopher Manning,Stanford AI Lab,Director,chrmanning,chrrmanning
 Clem Delangue,Hugging Face,CEO/co-founder,ClementDelangue,clementdelangue
 Daniel Breen,ML Insights: AI Unpacking AI Papers,Podcaster,,dnlbreen
 Daniel Eth,self employed,,daniel_271828,daniel_271828
-Daniel McKee,University of Illinois, PhD Student,danielbmckee,danielbmckee
+Daniel McKee,University of Illinois,PhD Student,danielbmckee,danielbmckee
 Davit Soselia,University of Maryland,grad student,DavitSoselia_,davit_soselia
 Desi R. Ivanova,Oxford,DPhil in Statistics,desirivanova,drivanova1
 Devi Parikh,Meta,"Research Director, Generative AI",deviparikh,deviparikh
@@ -60,7 +62,6 @@ Hoi Lam,DeepMind,Research Platform Product Lead,hoitab,hoitab
 Horace He,Meta,Pytorch,cHHillee,chhilleee
 Hugging Face,Hugging Face,,huggingface,huggingface_ai
 Irene Teinemaa,DeepMind,Research Engineer,IreneTeinemaa,ireneteinemaa
-JR New,Clubhouse,DS/ML Scientist,jrnewww,jrnewww
 Jacob Goodale,Unify.ai,Machine Learning Engineer,jpgoodale1,jpgoodale
 James Bradbury,Google,"JAX, TPUs, and LLMs",jekbradbury,jekbradbury
 Jean de Nyandwi,Carnegie Mellon,AI/DL,Jeande_d,nyandwi.de
@@ -70,11 +71,12 @@ Jessy Li,University of Texas,"Assistant Professor, computational linguistics and
 Jim Fan,NVIDIA,Senior AI Scientist,DrJimFan,dr.jimfan
 Jonathan Smith,Meta,ML Research,jonathanajsmith,jonathanajsmith
 Josh Constine,SignalFire,Investor,JoshConstine,joshsc
+JR New,Clubhouse,DS/ML Scientist,jrnewww,jrnewww
 Julia Balla,Oxford,,,juliaballa_
 Julien Chaumond,Hugging Face,CTO/co-founder,julien_c,chaumond
 Jun Wang,Michigan State University (formerly Twitter),Adjunct Professor,wangjun,junwdotcom
 Jupyter Meowbooks,,Memes,untitled01ipynb,untitled01ipynb
-Karson Elmgren,Center for Security and Emerging Technology at Georgetown, AI policy/AI Assessment,kelmgren,karsonelmgren
+Karson Elmgren,Center for Security and Emerging Technology at Georgetown,AI policy/AI Assessment,kelmgren,karsonelmgren
 Laurence Rouesnel,Meta,Pytorch,_laurencer,laurencerouesnel
 Logan Kilpatrick,OpenAI,Developer Relations,logankilpatrick,logankilpatrick
 Margaret Mitchell,formerly Google,ML Scientist and AI Researcher,mmmitchell_ai,margaret_mitchell_ai
@@ -104,7 +106,7 @@ Pedro Morais,Agility Robotics,Engineer (simulation/RL/controls),,pedro.pnw
 Phillip Rust,Meta,nlp/ml phd student,rust_phillip,phillip.rust
 Pranav Shyam,DeepMind,Researcher,recurseparadox,prnvshym
 Prof. Anima Anandkumar,Caltech/Nvidia,Bren Professor @caltech / Sr Director of AI research @nvidia,AnimaAnandkumar,animaanandkumar
-Rajesh Kandaswamy, Gartner, Industry Analyst, rajeshkan, ai_whisperati
+Rajesh Kandaswamy,Gartner,Industry Analyst,rajeshkan,ai_whisperati
 Randy Ardywibowo,Apple,Machine Learning Engineer,RandyArdywibowo,randy.pth
 Rho Lall,Assume Wisely,Analytics Engineer,rho_lall,rho_lall
 Ross Taylor,Meta,Research,rosstaylor90,rawsstaylor
@@ -112,7 +114,7 @@ Sakib Dadi,BessemerVP,Investor,SakibDadi,sakibdadi
 Sam Altman,OpenAI,CEO/co-founder,sama,samaltman99
 Santiago L Valdarrama,ml.school,head,svpino,svp1n0
 Sarah Floris,,Senior Data and ML Platform Enginee,ADutchEngineer,adutchengineer
-Sasha Rush,"Cornell University, Hugging Face ","Associate Professor, Researcher",srush_nlp,srush_nlp
+Sasha Rush,"Cornell University, Hugging Face","Associate Professor, Researcher",srush_nlp,srush_nlp
 Shijie Wu,Bloomberg,Research Engineer,EzraWu,ezra_wu
 Shobeir Fakhraei,Amazon,Senior Machine Learning Scientist,shobeirf,shobeirf
 Simon Batzner,DeepMind,Researcher,simonbatzner,simonomial
@@ -124,7 +126,7 @@ Sujan Kumar Gonugondla,AWS,Sr ML Scientist,,sujankumar91
 Tali Herzka,Github,Copilot SWE,therzka,therzka
 Tamsin Crossland,The AI Book,co-author,CrosslandTamsin,tamsin_crossland
 Thomas Kipf,DeepMind,AI Research,tkipf,thomaskipf
-Thomas Mock,Posit PBC,Product Manager for Posit Workbench/RStudio, thomas_mock, jthomasmock
+Thomas Mock,Posit PBC,Product Manager for Posit Workbench/RStudio,thomas_mock,jthomasmock
 Tim Tully,Menlo Ventures,Partner,timt,timtimtimt
 Wenfeng Zhuo,Meta,Staff ML Eng,,wenfeng_zhuo
 Xavier Amatriain,LinkedIn,VP of AI Product,XAmatriain,xamatriain
@@ -132,5 +134,3 @@ Yana Welinder,Kraftful,CEO / Cofounder,yanatweets,yanawelinder
 Yann LeCun,Meta/NYU,Chief AI Scientist/Professor,ylecun,yannlecun
 Yoshitomo Matsubara,Amazon,Alexa AI Applied Scientist,yoshitomo_cs,yoshitomo_cs
 Zubair Irshad,Georgia Tech,Robo/ML PhD Student,mzubairirshad,imzubairai
-Azmine Toushik Wasi,"DILab,HYU/CIOL,SUST",AI Researcher,AzmineWasi,azminewasi
-Alex Hughes,Loopin,CTO,alexjackhughes,alexjackhughes
