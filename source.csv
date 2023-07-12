@@ -22,6 +22,7 @@ Aran Komatsuzaki,EleutherAI,Lead Researcher,arankomatsuzaki,arankomatsuzaki
 Ari Morcos,Meta,Research scientist,arimorcos,arismorcos
 Ariel Herbert-Voss,Dixie Flatline,Head,adversariel,adversariel_
 Arinbjörn Kolbeinsson,Evidation Health/Imperial College London,ML Scientist,arinbjornkol,arinbjornkol
+Asli Celikyilmaz,FAIR / Meta,Research Manager,real_asli,karakizca
 Azmine Toushik Wasi,"DILab,HYU/CIOL,SUST",AI Researcher,AzmineWasi,azminewasi
 Ben Murdoch,Google,AI research,,ben.murdoch
 Benedikt Kolbeinsson,Imperial College London,PhD,benediktkol,benediktkolbeinsson
@@ -42,9 +43,11 @@ Chris Albon,Wikimedia,Director of ML,chrisalbon,chrisalbon
 Chris Olah,Anthropic,"Research, Interpretability",ch402,olahchristopher
 Christopher Manning,Stanford AI Lab,Director,chrmanning,chrrmanning
 Clem Delangue,Hugging Face,CEO/co-founder,ClementDelangue,clementdelangue
+Dan Roy,"Univ of Toronto, CIFAR","Scientist, Assoc Prof of Stats/CS, AI Chair of CIFAR",roydanroy,roydanroy
 Daniel Breen,ML Insights: AI Unpacking AI Papers,Podcaster,,dnlbreen
 Daniel Eth,self employed,,daniel_271828,daniel_271828
 Daniel McKee,University of Illinois,PhD Student,danielbmckee,danielbmckee
+David Ha,"formerly Stability AI, Google Brain",,hardmaru,hardmaru
 Davit Soselia,University of Maryland,grad student,DavitSoselia_,davit_soselia
 Daylen Yang,Waymo,Staff software engineer,daylenyang,daylenyang
 Delip Rao,Allen Institute of AI,Entrepreneur in Residence,deliprao,delip.rao
@@ -66,6 +69,9 @@ Ethan Mollick,Wharton,Professor,emollick,ethan_mollick
 Eugene Vinitsky,NYU,Asst Prof,eugenevinitsky,vinitsky.eugene
 Eugene Yan,Amazon,"Building ml, recsys, & llm systems",eugeneyan,eugeneyan
 Franz Louis Cesista,Expedock,ML & Data SWE,leloykun,leloykun
+Fu-Jen Chu,FAIR,Research Scientist,FuJenChu1,fujenchu
+Gabriel Synnaeve,"Meta AI, Meta Reality Labs Research – FAIR",Research Scientist Manager,syhw,gabrielsynnaeve
+Gargi Ghosh,MetaAI,,,its_gargi_ghosh
 Gautam Kamath,Univ of Waterloo,Asst Prof,thegautamkamath,thegautamkamath
 Giovanni Alcantara,Meta,AI,gvnalc,gvnalc
 Gowthami Somepalli,Univ of Maryland,grad student in ML,gowthami_s,gowthami_som
@@ -77,14 +83,23 @@ Hilary Mason,Fast Forward Labs,Founder & CEO,?,hilaryamason
 Hoi Lam,DeepMind,Research Platform Product Lead,hoitab,hoitab
 Horace He,Meta,Pytorch,cHHillee,chhilleee
 Hugging Face,Hugging Face,,huggingface,huggingface_ai
+Ilya Reznik,Meta,Machine Learning engineer,,reznikib
+Ilya Sutskever,OpenAI,Co-founder and Chief Scientist,ilyasut,ilyasu2
 Irene Teinemaa,DeepMind,Research Engineer,IreneTeinemaa,ireneteinemaa
+Ishan Misra,MetaAI (FAIR),ML Researcher,imisra_,ishanmisra
 Jacob Goodale,Unify.ai,Machine Learning Engineer,jpgoodale1,jpgoodale
 James Bradbury,Google,"JAX, TPUs, and LLMs",jekbradbury,jekbradbury
+Jason Weston,MetaAI,Research Scientist,jaseweston,jase_weston
 Jean de Nyandwi,Carnegie Mellon,AI/DL,Jeande_d,nyandwi.de
+Jeremy Fox,Google,LLM whisperer,JeremyDanielFox,manyfoxgiven
 Jeremy Howard,fast.ai,Co-founder,jeremyphoward,jeremyphoward
+Jeremy R Cole,Google DeepMind,(NLP),jeremy_r_cole,jeremy_r_cole
 Jesper Dramsch,ECMWF,Scientist for Machine Learning,jesperdramsch,jesperdramsch
 Jessy Li,University of Texas,"Assistant Professor, computational linguistics and NLProc",jessyjli,jessyjli
+Jigar Doshi,Wadhwani AI,Machine Learning Scientist and Manager,jigarkdoshi,jigarkdoshi
 Jim Fan,NVIDIA,Senior AI Scientist,DrJimFan,dr.jimfan
+Jimmy Edgell,,Data Scientist in travel,Jimmyedgell,jimmyedgell
+Jon Barron,Google,Research scientist,jon_barron,jonbarron
 Jonathan Smith,Meta,ML Research,jonathanajsmith,jonathanajsmith
 Josh Constine,SignalFire,Investor,JoshConstine,joshsc
 JR New,Clubhouse,DS/ML Scientist,jrnewww,jrnewww
@@ -92,22 +107,40 @@ Julia Balla,Oxford,,,juliaballa_
 Julien Chaumond,Hugging Face,CTO/co-founder,julien_c,chaumond
 Jun Wang,Michigan State University (formerly Twitter),Adjunct Professor,wangjun,junwdotcom
 Jupyter Meowbooks,,Memes,untitled01ipynb,untitled01ipynb
+Justin Johnson,"UMich, Meta","Assistant Professor, Research Scientist",jcjohnss,justin.c.johnson
+Kai-Wei Chang,UCLAengineering,Associate Professor,kaiwei_chang,kwchang_nlp
 Karson Elmgren,Center for Security and Emerging Technology at Georgetown,AI policy/AI Assessment,kelmgren,karsonelmgren
+Kate Stafford,AtomwiseInc,"Scientist - AI/ML for proteins, small molecules, and everything in between",kastacholamine,kastacholamine
+Kavya Srinet,Facebook AI Research,Researcher,kavyasrinet,kavyasrinet
+Khalid Saifullah,"University of Maryland, Adobe","AI/ML PhD Student, Research Scientist Intern",k_saifullaah,khalidsaifullaah
+Kristin Lauter,FAIR Laps North America at Meta,Director,KristinLauter,kristin.lauter
 Laurence Rouesnel,Meta,Pytorch,_laurencer,laurencerouesnel
+Laurens van der Maaten,Meta AI (FAIR team),Research Director,lvdmaaten,lvdmaaten
+Lei M. Zhang,DeepMind,Research Scientist,l32zhang,lei.m.zhang
+Leo Boytsov,AWS Labs,Sr. Research Scientist,srchvrs,srchvrs
 Logan Kilpatrick,OpenAI,Developer Relations,logankilpatrick,logankilpatrick
+Lucas Pavanelli,aiXplain,AI Research Engineer,pavalucas,pavalucas
+Luke Zettlemoyer,Meta,,LukeZettlemoyer,lukezettlemoyer
+Madison May,Indico Data,teaching machines,pragmaticml,pragmaticml
+Mahmoud (Mido) Assran,MetaAI,Research Scientist,mido_assran,midoassran
 Margaret Mitchell,formerly Google,ML Scientist and AI Researcher,mmmitchell_ai,margaret_mitchell_ai
 Maria Antoniak,Allen Institute for AI,Postdoc,maria_antoniak,maria.antoniak
 Matt Rurck,FirstMark,VC,mattturck,mattturck
 Matthew Lynley,Supervised.News,Writer,mattlynley,mattlynley
+Matthew Muckley,Meta AI,Research Engineer,mattmucklm,mattmucklm
 Max Woolf,Buzzfeed,Data Scientist,minimaxir,minimaxir
 Maximilian Nickel,Meta,Research Scientist - AI ∩ Complex Systems ∩ Society,mnick,maxsnickel
 Maya,Carnegie Mellon,MS Student,,mayaxgreco
 Megan Risdal,"Kaggle, Google",Product work,MeganRisdal,meganrisdal
 Megan Taylor,UWMadison Biophysics,ML & protein engineering,megthescientist,_megthescientist_
+Michael Bronstein,Deepmind / Oxford,Professor,mmbronstein,mmbronstein
 Michael Gold,School of Visual Arts / Shaderverse,Professor / Cofounder,michaelgold,michaelgold
+Michael Kevin Spencer,AI Supremacy,Writer,,michaelkevinspencer
+Michael Rivard,,Machine learning engineer,michael_rivard,microvardoc
 Michael Voznesensky,Meta,Pytorch Eng,,vozfb
 Miguel Angel Bautista,Apple,ML Research,itsbautistam,itsbautistam
 Miguel Núñez,HHMI | Janelia,Neuro (Data) Scientist,NunezKant,nunezkant
+Mimansa Jaiswal,UMichCSE,PhD candidate,MimansaJ,mimansajaiswal
 Min-Hung (Steve) Chen,NVIDIA,Senior Research Scientist,CMHungSteven,cmhungsteve
 Mina Lee,Microsoft Research,Postdoc,MinaLee__,minaminalee
 Nadine Salem,Synergy Bioscience,AI Drug Discovery,technaelogy,technaelogy
@@ -121,39 +154,57 @@ Olesia,SoftServe,AI lead,olylesia,_olysavra_
 OpenAI Dall-E,OpenAI,Dall-E,,openaidalle
 Paige Bailey,DeepMind,Product Lead for Generative Models,DynamicWebPaige,dynamicwebpaige
 Parmida Beigi,Amazon AI,"Senior Tech Lead Scientist on Gen AI/ML, NLP and speech recognition",ParmidaBeigi,bigdataqueen
+Pawel Pachniewski,,,,pwlot
 Pedro Morais,Agility Robotics,Engineer (simulation/RL/controls),,pedro.pnw
 Phillip Rust,Meta,nlp/ml phd student,rust_phillip,phillip.rust
+Piotr Skalski,Roboflow,Computer vision,skalskip92,skalskip92
+Poe,Poe,Poe,poe_platform,poe_platform
 Pranav Shyam,DeepMind,Researcher,recurseparadox,prnvshym
 Prof. Anima Anandkumar,Caltech/Nvidia,Bren Professor @caltech / Sr Director of AI research @nvidia,AnimaAnandkumar,animaanandkumar
 Rajesh Kandaswamy,Gartner,Industry Analyst,rajeshkan,ai_whisperati
 Randy Ardywibowo,Apple,Machine Learning Engineer,RandyArdywibowo,randy.pth
 Rho Lall,Assume Wisely,Analytics Engineer,rho_lall,rho_lall
+Robert Lewis,,,roblew9013,roblew9009
+Robert Scoble,Infinite Retina,"AI-First chief strategy office, writer",Scobleizer,scobleizer
+Robin Jia,USC Thomas Lord Department of Computer Science,Assistant Professor,robinomial,robinstrumental
+Rohit Girdhar,Facebook AI Research,Research Scientist,_rohitgirdhar_,rohytg
 Ross Taylor,Meta,Research,rosstaylor90,rawsstaylor
 Sakib Dadi,BessemerVP,Investor,SakibDadi,sakibdadi
+Salem,,deep learning research,SalemGhouili,salemghouili
+Saloni,Our World in Data,Research,salonium,saloni.n.d
 Sam Altman,OpenAI,CEO/co-founder,sama,samaltman99
 Santiago L Valdarrama,ml.school,head,svpino,svp1n0
 Sarah Floris,,Senior Data and ML Platform Enginee,ADutchEngineer,adutchengineer
 Sasha Rush,"Cornell University, Hugging Face","Associate Professor, Researcher",srush_nlp,srush_nlp
 Scott Wen-tau Yih,Facebook AI Research (FAIR),Research Scientist,scottyih,curious_scott
+Sebastian Gehrmann,Bloomberg,"Head of NLP, CTO office",sebgehr,sebastiangehrmann
+Sebastian Raschka,Lightning AI,,rasbt,sebastianraschka
 Shijie Wu,Bloomberg,Research Engineer,EzraWu,ezra_wu
+Sho Yaida,MetaAI,Research Scientist,ShoYaida,shoyaida
 Shobeir Fakhraei,Amazon,Senior Machine Learning Scientist,shobeirf,shobeirf
 Simon Batzner,DeepMind,Researcher,simonbatzner,simonomial
 Sophia Yang Ph.D.,Anaconda,Senior Data Scientist,sophiamyang,sophiamyang
 Soumith Chintala,Meta,Pytorch lead,soumithchintala,soumith
+Soumith Chintala,MetaAI,Cofounded and lead PyTorch,soumithchintala,soumith
 Stanford Institute for Human-Centered AI,Stanford,Institute for Human-Centered AI,StanfordHAI,stanfordhai
 Stoyan Stoyanov,,Robotics Engineer and ML practitioner building AI-powered products,,sptstoyanov
 Sujan Kumar Gonugondla,AWS,Sr ML Scientist,,sujankumar91
+Suraj Srinivas,Harvard,ML Researcher,Suuraj,savinirs_jarus
 Tali Herzka,Github,Copilot SWE,therzka,therzka
 Tamsin Crossland,The AI Book,co-author,CrosslandTamsin,tamsin_crossland
 Thomas Kipf,DeepMind,AI Research,tkipf,thomaskipf
 Thomas Mock,Posit PBC,Product Manager for Posit Workbench/RStudio,thomas_mock,jthomasmock
 Tim Tully,Menlo Ventures,Partner,timt,timtimtimt
 Tudor Achim,Helm.ai,Cofounder / CTO,tachim,tudorachim
+Vlad Loktev,,Investor,vladimirloktev,vladimirloktev
 Wenfeng Zhuo,Meta,Staff ML Eng,,wenfeng_zhuo
 Xavier Amatriain,LinkedIn,VP of AI Product,XAmatriain,xamatriain
 Yana Welinder,Kraftful,CEO / Cofounder,yanatweets,yanawelinder
 Yann LeCun,Meta/NYU,Chief AI Scientist/Professor,ylecun,yannlecun
+Yaron Lipman,"WeizmannScience, MetaAI (FAIR)","Faculty, research scientist",lipmanya,lipmanya
+Yoav Artzi,Cornell,"NLP, ML researcher/professor",yoavartzi,yoavartzi
 Yoshitomo Matsubara,Amazon,Alexa AI Applied Scientist,yoshitomo_cs,yoshitomo_cs
+Yossi Adi,"The Hebrew University of Jerusalem, Meta AI (FAIR)","Assistant Professor, Research Scientist",adiyossLC,yossiadidrum
 Zining Zhu,Stevens Institute of Technology,Incoming Assistant Professor,zhuzining,bakerzzhu
+Ziyi Yang,Microsoft,Researcher,yzy_ai,yzy_ai
 Zubair Irshad,Georgia Tech,Robo/ML PhD Student,mzubairirshad,imzubairai
-Khalid Saifullah,"University of Maryland, Adobe","AI/ML PhD Student, Research Scientist Intern",k_saifullaah,khalidsaifullaah
