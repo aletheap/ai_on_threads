@@ -1,5 +1,6 @@
 Name,Affiliation,Role,Twitter,Threads
 Aarne Talman,SiloGen,Head of Technology,aarnetalman,aarnetalman
+Abhimanyu Hans,University of Maryland,Grad student in ML,AHans30,icogitotabhihoon
 Abi Aryan,<stealth>,"MLE, author",GoAbiAryan,goabiaryan
 Adi Polak,Prev Microsoft,SWE,AdiPolak,polak.code
 Ahmad Beirami,Google,Large-Scale Generative AI,abeirami,beiramiab
@@ -97,7 +98,7 @@ James Bradbury,Google,"JAX, TPUs, and LLMs",jekbradbury,jekbradbury
 Jascha Sohl-Dickstein,Google Brain,Senior staff research scientist,jaschasd,jaschasd
 Jason Weston,MetaAI,Research Scientist,jaseweston,jase_weston
 Jean de Nyandwi,Carnegie Mellon,AI/DL,Jeande_d,nyandwi.de
-Jeff Rasley, Microsoft DeepSpeed, Principal Research Engineer, jeffra45, jeffra45
+Jeff Rasley,Microsoft DeepSpeed,Principal Research Engineer,jeffra45,jeffra45
 Jeremy Fox,Google,LLM whisperer,JeremyDanielFox,manyfoxgiven
 Jeremy Howard,fast.ai,Co-founder,jeremyphoward,jeremyphoward
 Jeremy R Cole,Google DeepMind,(NLP),jeremy_r_cole,jeremy_r_cole
@@ -144,6 +145,7 @@ Maximilian Nickel,Meta,Research Scientist - AI ∩ Complex Systems ∩ Society,m
 Maya,Carnegie Mellon,MS Student,,mayaxgreco
 Megan Risdal,"Kaggle, Google",Product work,MeganRisdal,meganrisdal
 Megan Taylor,UWMadison Biophysics,ML & protein engineering,megthescientist,_megthescientist_
+Mehdi Jamei,System,Director of AI,mjamei,mjamei
 Michael Bronstein,Deepmind / Oxford,Professor,mmbronstein,mmbronstein
 Michael Gold,School of Visual Arts / Shaderverse,Professor / Cofounder,michaelgold,michaelgold
 Michael Kevin Spencer,AI Supremacy,Writer,,michaelkevinspencer
@@ -160,8 +162,8 @@ Naomi Saphra,NYU,Postdoc NLP,nsaphra,nsaphra
 Natalia Burina,Formerly Meta,AI Product,Nale,nataliaburina
 Nathan Lambert,Hugging Face,Machine learning RESEARCHER & WRITER,natolambert,natolambert
 Naveen Rao,MosaicML,CEO,NaveenGRao,naveen.g.rao
-Nitish Gupta, NC State, RL research, slick_mind, theslickmind
 Neehar Peri,Carnegie Mellon University,PhD Student,NeeharPeri,neeharperi
+Nitish Gupta,NC State,RL research,slick_mind,theslickmind
 Noam Brown,OpenAI,AI researcher,polynoamial,polynoamial
 Olesia,SoftServe,AI lead,olylesia,_olysavra_
 Oliver Obst,Western Sydney University,Associate Professor,oliverobst,oliobst
@@ -212,9 +214,9 @@ Thomas Kipf,DeepMind,AI Research,tkipf,thomaskipf
 Thomas Mock,Posit PBC,Product Manager for Posit Workbench/RStudio,thomas_mock,jthomasmock
 Tim Tully,Menlo Ventures,Partner,timt,timtimtimt
 Tudor Achim,Helm.ai,Cofounder / CTO,tachim,tudorachim
-Vlad Loktev,,Investor,vladimirloktev,vladimirloktev
 Victor Geislinger,,Machine Learning Engineer / Data Scientist & Educator,MrGeislinger,victorsothervector
-Weaviate, Open Source Vector Database,, weaviate_io, weaviate_io
+Vlad Loktev,,Investor,vladimirloktev,vladimirloktev
+Weaviate,Open Source Vector Database,,weaviate_io,weaviate_io
 Wenfeng Zhuo,Meta,Staff ML Eng,,wenfeng_zhuo
 Xavier Amatriain,LinkedIn,VP of AI Product,XAmatriain,xamatriain
 Xindi Wu,Princeton,PhD Student,CindyCindywww,cindycindywww
@@ -224,9 +226,7 @@ Yaron Lipman,"WeizmannScience, MetaAI (FAIR)","Faculty, research scientist",lipm
 Yoav Artzi,Cornell,"NLP, ML researcher/professor",yoavartzi,yoavartzi
 Yoshitomo Matsubara,Amazon,Alexa AI Applied Scientist,yoshitomo_cs,yoshitomo_cs
 Yossi Adi,"The Hebrew University of Jerusalem, Meta AI (FAIR)","Assistant Professor, Research Scientist",adiyossLC,yossiadidrum
-Zain Hasan, Weaviate, Data Science, zainhasan6, zainhsn
+Zain Hasan,Weaviate,Data Science,zainhasan6,zainhsn
 Zining Zhu,Stevens Institute of Technology,Incoming Assistant Professor,zhuzining,bakerzzhu
 Ziyi Yang,Microsoft,Researcher,yzy_ai,yzy_ai
 Zubair Irshad,Georgia Tech,Robo/ML PhD Student,mzubairirshad,imzubairai
-Mehdi Jamei, System, Director of AI, mjamei, mjamei
-Abhimanyu Hans, University of Maryland, Grad student in ML, AHans30, icogitotabhihoon 
