@@ -1,0 +1,31 @@
+name: Rebuild HTML
+on: push
+permissions:
+  contents: write
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.11'
+      - name: Add conda to system path
+        run: |
+          # $CONDA is an environment variable pointing to the root of the miniconda directory
+          echo $CONDA/bin >> $GITHUB_PATH
+      - name: Install dependencies
+        run: |
+          conda env update --file environment.yml --name base
+      - name: Build HTML
+        run: |
+          python ./generate_html.py
+      - name: Commit report
+        run: |
+          git config --global user.name 'Alethea Power'
+          git config --global user.email 'aletheap@users.noreply.github.com'
+          git commit -am "Regenerate HTML"
+          git push
